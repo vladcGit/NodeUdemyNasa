@@ -5,7 +5,7 @@ jobs:
     env:
       CI: true,
       USERNAME: Vlad
-      PASSWORD: test
+      PASSWORD: BxNz0q6iFRZjfl2R
     strategy:
       matrix:
         node-version: [16.x, 14.x]
